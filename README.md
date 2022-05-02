@@ -1,8 +1,11 @@
+![Holberton](https://user-images.githubusercontent.com/85451781/140782830-f3f4a341-3d98-4a6e-89d2-76d684c80e9e.png)
+
 # holberton-headphones
 
 In this project, I am implementing from scratch, without any library, a web page
 
 ## Here the final result:
+![final_result](https://user-images.githubusercontent.com/85451781/166266950-970f104c-25a1-4de3-a301-e6ad0a346823.jpg)
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip)
 
