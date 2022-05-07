@@ -538,7 +538,7 @@ legend {
   text-align: center;
 }
 
-label {
+.form-data label {
   min-width: 8.3rem;
   cursor: pointer;
   line-height: 16px;
@@ -554,9 +554,4 @@ textarea {
   border: none;
   padding-bottom: 1.1rem;
   outline: none;
-}
-
-input:focus,
-input:active {
-  background: white;
 }
